@@ -1,6 +1,7 @@
 {
   "name": "page-gallery",
   "version": "0.1.0",
+  "homepage": "https://github.com/AevumElectronics/React-Test-Website",
   "private": true,
   "dependencies": {
     "@syncfusion/ej2-react-maps": "^19.4.56",
