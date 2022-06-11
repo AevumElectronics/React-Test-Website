@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.2010aeb1.css",
-    "main.js": "/static/js/main.a8e4401e.js",
-    "static/media/icon-aevum-solo-text-250px.png": "/static/media/icon-aevum-solo-text-250px.f819a8b776238f4bddca.png",
-    "static/media/icon-aevum-solo-logo-shadow-250px.png": "/static/media/icon-aevum-solo-logo-shadow-250px.184edc16e3e63a81b6a3.png",
-    "static/media/undraw_starry_window_re_0v82.svg": "/static/media/undraw_starry_window_re_0v82.9c2652af866207a3fff9777320d88e39.svg",
-    "index.html": "/index.html",
-    "main.2010aeb1.css.map": "/static/css/main.2010aeb1.css.map",
-    "main.a8e4401e.js.map": "/static/js/main.a8e4401e.js.map"
+    "main.css": "/AevumElectronics/React-Test-Website/static/css/main.2010aeb1.css",
+    "main.js": "/AevumElectronics/React-Test-Website/static/js/main.c6286219.js",
+    "static/media/icon-aevum-solo-text-250px.png": "/AevumElectronics/React-Test-Website/static/media/icon-aevum-solo-text-250px.f819a8b776238f4bddca.png",
+    "static/media/icon-aevum-solo-logo-shadow-250px.png": "/AevumElectronics/React-Test-Website/static/media/icon-aevum-solo-logo-shadow-250px.184edc16e3e63a81b6a3.png",
+    "static/media/undraw_starry_window_re_0v82.svg": "/AevumElectronics/React-Test-Website/static/media/undraw_starry_window_re_0v82.9c2652af866207a3fff9777320d88e39.svg",
+    "index.html": "/AevumElectronics/React-Test-Website/index.html",
+    "main.2010aeb1.css.map": "/AevumElectronics/React-Test-Website/static/css/main.2010aeb1.css.map",
+    "main.c6286219.js.map": "/AevumElectronics/React-Test-Website/static/js/main.c6286219.js.map"
   },
   "entrypoints": [
     "static/css/main.2010aeb1.css",
-    "static/js/main.a8e4401e.js"
+    "static/js/main.c6286219.js"
   ]
 }
