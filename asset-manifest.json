@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/AevumElectronics/React-Test-Website/static/css/main.2010aeb1.css",
-    "main.js": "/AevumElectronics/React-Test-Website/static/js/main.c6286219.js",
-    "static/media/icon-aevum-solo-text-250px.png": "/AevumElectronics/React-Test-Website/static/media/icon-aevum-solo-text-250px.f819a8b776238f4bddca.png",
-    "static/media/icon-aevum-solo-logo-shadow-250px.png": "/AevumElectronics/React-Test-Website/static/media/icon-aevum-solo-logo-shadow-250px.184edc16e3e63a81b6a3.png",
-    "static/media/undraw_starry_window_re_0v82.svg": "/AevumElectronics/React-Test-Website/static/media/undraw_starry_window_re_0v82.9c2652af866207a3fff9777320d88e39.svg",
-    "index.html": "/AevumElectronics/React-Test-Website/index.html",
-    "main.2010aeb1.css.map": "/AevumElectronics/React-Test-Website/static/css/main.2010aeb1.css.map",
-    "main.c6286219.js.map": "/AevumElectronics/React-Test-Website/static/js/main.c6286219.js.map"
+    "main.css": "/aevumelectronics/react-test-website/static/css/main.2010aeb1.css",
+    "main.js": "/aevumelectronics/react-test-website/static/js/main.d73e8fe9.js",
+    "static/media/icon-aevum-solo-text-250px.png": "/aevumelectronics/react-test-website/static/media/icon-aevum-solo-text-250px.f819a8b776238f4bddca.png",
+    "static/media/icon-aevum-solo-logo-shadow-250px.png": "/aevumelectronics/react-test-website/static/media/icon-aevum-solo-logo-shadow-250px.184edc16e3e63a81b6a3.png",
+    "static/media/undraw_starry_window_re_0v82.svg": "/aevumelectronics/react-test-website/static/media/undraw_starry_window_re_0v82.9c2652af866207a3fff9777320d88e39.svg",
+    "index.html": "/aevumelectronics/react-test-website/index.html",
+    "main.2010aeb1.css.map": "/aevumelectronics/react-test-website/static/css/main.2010aeb1.css.map",
+    "main.d73e8fe9.js.map": "/aevumelectronics/react-test-website/static/js/main.d73e8fe9.js.map"
   },
   "entrypoints": [
     "static/css/main.2010aeb1.css",
-    "static/js/main.c6286219.js"
+    "static/js/main.d73e8fe9.js"
   ]
 }
