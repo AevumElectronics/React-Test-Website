@@ -1,16 +1,17 @@
 {
   "files": {
-    "main.css": "/React-Test-Website/static/css/main.2010aeb1.css",
-    "main.js": "/React-Test-Website/static/js/main.97936733.js",
-    "static/media/icon-aevum-solo-text-250px.png": "/React-Test-Website/static/media/icon-aevum-solo-text-250px.f819a8b776238f4bddca.png",
-    "static/media/icon-aevum-solo-logo-shadow-250px.png": "/React-Test-Website/static/media/icon-aevum-solo-logo-shadow-250px.184edc16e3e63a81b6a3.png",
+    "main.css": "/React-Test-Website/static/css/main.e7a55bae.css",
+    "main.js": "/React-Test-Website/static/js/main.05cfb5cc.js",
+    "static/media/logo-aevum-sm.webp": "/React-Test-Website/static/media/logo-aevum-sm.1789439db6a339f8ec49.webp",
+    "static/media/icon-aevum-solo-text-250px.webp": "/React-Test-Website/static/media/icon-aevum-solo-text-250px.6cada817be295ba8fb7b.webp",
+    "static/media/icon-aevum-solo-logo-shadow-250px.webp": "/React-Test-Website/static/media/icon-aevum-solo-logo-shadow-250px.8caa47f3c057bbff3a41.webp",
     "static/media/undraw_starry_window_re_0v82.svg": "/React-Test-Website/static/media/undraw_starry_window_re_0v82.9c2652af866207a3fff9777320d88e39.svg",
     "index.html": "/React-Test-Website/index.html",
-    "main.2010aeb1.css.map": "/React-Test-Website/static/css/main.2010aeb1.css.map",
-    "main.97936733.js.map": "/React-Test-Website/static/js/main.97936733.js.map"
+    "main.e7a55bae.css.map": "/React-Test-Website/static/css/main.e7a55bae.css.map",
+    "main.05cfb5cc.js.map": "/React-Test-Website/static/js/main.05cfb5cc.js.map"
   },
   "entrypoints": [
-    "static/css/main.2010aeb1.css",
-    "static/js/main.97936733.js"
+    "static/css/main.e7a55bae.css",
+    "static/js/main.05cfb5cc.js"
   ]
 }
