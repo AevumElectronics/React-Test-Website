@@ -1,28 +1,27 @@
 import './App.css';
+import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 import FooterNavbar from './components/FooterNavbar';
 import HeaderNavbar from './components/HeaderNavbar';
-import Mappa from './components/Mappa'
-import FeedbackForm from './components/FeedbackForm';
-import HeroSection1 from './components/HeroSection1';
-import PriceCardSection1 from './components/PriceCardSection1'
-import MissionStatement from './components/MissionStatement'
+import Home from './pages/Home'
+import Linktree from './pages/Linktree';
 
 function App() {
   return (
     <div>
+      <Router>
         <HeaderNavbar/>
-        <HeroSection1/>
-        <MissionStatement />
+        <Routes>
+          <Route path="/" exact element={<Home/>} />
+          <Route path="/linktree" element={<Linktree/>} />
+        </Routes>
+        <FooterNavbar/>
+      </Router>
         
-        <PriceCardSection1  />
-       
-        <FeedbackForm />
-        <FooterNavbar />
+ 
+        
     </div>
   );
 }
 
 export default App;
 
-// <Mappa  />
-//
