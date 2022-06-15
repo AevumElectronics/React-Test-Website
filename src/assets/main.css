@@ -493,6 +493,9 @@ Ensure the default browser behavior of the `hidden` attribute.
 .max-w-lg {
   max-width: 32rem;
 }
+.max-w-\[900px\] {
+  max-width: 900px;
+}
 .max-w-\[700px\] {
   max-width: 700px;
 }
@@ -670,6 +673,9 @@ Ensure the default browser behavior of the `hidden` attribute.
 .pb-5 {
   padding-bottom: 1.25rem;
 }
+.pb-10 {
+  padding-bottom: 2.5rem;
+}
 .text-center {
   text-align: center;
 }
@@ -747,6 +753,17 @@ Ensure the default browser behavior of the `hidden` attribute.
   transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
   transition-duration: 150ms;
 }
+.duration-300 {
+  transition-duration: 300ms;
+}
+.ease-in-out {
+  transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
+}
+.hover\:scale-105:hover {
+  --tw-scale-x: 1.05;
+  --tw-scale-y: 1.05;
+  transform: translate(var(--tw-translate-x), var(--tw-translate-y)) rotate(var(--tw-rotate)) skewX(var(--tw-skew-x)) skewY(var(--tw-skew-y)) scaleX(var(--tw-scale-x)) scaleY(var(--tw-scale-y));
+}
 .hover\:rounded-sm:hover {
   border-radius: 0.125rem;
 }
@@ -772,8 +789,8 @@ Ensure the default browser behavior of the `hidden` attribute.
   --tw-shadow-color: #0c4a6e;
   --tw-shadow: var(--tw-shadow-colored);
 }
-.hover\:shadow-red-200:hover {
-  --tw-shadow-color: #fecaca;
+.hover\:shadow-zinc-400:hover {
+  --tw-shadow-color: #a1a1aa;
   --tw-shadow: var(--tw-shadow-colored);
 }
 .active\:rounded-sm:active {
