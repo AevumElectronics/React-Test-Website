@@ -1,4 +1,5 @@
 import React from 'react';
+import { Link } from "react-router-dom";
 import data from '../pages/LinktreeData';
 
 function FooterNavbar() {
@@ -18,6 +19,12 @@ function FooterNavbar() {
             </div>
             ))}
             
+          </div>
+          <div className='justify-start flex flex-col gap-2'>
+            <h5 className='text-3xl font-semibold'>SiteMap</h5>
+            <hr></hr>
+            <Link to="/" className="cursor-pointer hover:text-red-500">Home</Link>
+            <Link to="/linktree" className="cursor-pointer hover:text-red-500">LinkTree</Link>
           </div>
           <div className='justify-start flex flex-col gap-2'>
             <h5 className='text-3xl font-semibold'>Social</h5>

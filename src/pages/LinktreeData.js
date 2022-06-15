@@ -1,11 +1,6 @@
 
 const linktreedata= [
     {
-        title:"Home Page",
-        url: "/",
-        type:"website",
-    },
-    {
         title:"Twitter",
         url: "https://twitter.com/Aevum88",
         type:"social",
@@ -33,11 +28,6 @@ const linktreedata= [
     {
         title:"Fake Store V1",
         url: "https://aesthetic-faun-b5da85.netlify.app/",
-        type:"project",
-    },
-    {
-        title:"dummy website",
-        url: "#",
         type:"project",
     },
 ]

@@ -1,5 +1,6 @@
 import data from './LinktreeData';
 
+
 function Linktree() {
     return (
     <div className="min-h-screen bg-zinc-300 py-10 flex">
@@ -7,7 +8,6 @@ function Linktree() {
         flex flex-col gap-4 p-4" id="linkboard">
             <img src={require("../img/logo-aevum-sm.webp")} alt="logo" className="max-h-56 object-contain"/>
             
-           
             
             {data.map((data)=>(
                 <div className="rounded-sm shadow-md p-2 text-center text-lg bg-red-400 cursor-pointer
