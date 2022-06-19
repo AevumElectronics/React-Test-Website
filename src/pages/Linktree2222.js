@@ -10,16 +10,20 @@ function Linktree() {
             
             
             {data.map((data)=>(
-                <a className="rounded-sm shadow-md p-2 text-center text-lg bg-red-400 cursor-pointer
+                <a className="rounded-xl shadow-md p-2 text-center text-lg bg-red-400 cursor-pointer
                 transition-all 
-                hover:bg-red-500 hover:rounded-sm hover:shadow-xl
+                hover:bg-red-500  hover:shadow-xl
                 active:bg-red-300 active:rounded-sm active:shadow-lg"
                 key={data.title}
                 href={data.url}>
                 {data.title}
                 </a>)
             )}
+<p>
+hover:rounded-sm
 
+
+</p>
 
 
                     
