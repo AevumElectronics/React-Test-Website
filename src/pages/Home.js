@@ -4,6 +4,7 @@ import ProjectCard from '../components/ProjectCard';
 import HeroCard from '../components/HeroCard';
 import Divisor from '../components/Divisor';
 import TestSliderProjectCard from '../components/TestSliderProjectCard';
+import CaroselloLungo from '../components/CaroselloLungo'
 
 function Home() {
     return (
@@ -25,6 +26,9 @@ function Home() {
 
         <Divisor text="TestSliderProjectCard: Title + description + img object"/>
         <TestSliderProjectCard title="title" description="description" img={slider1image[0].img}/>
+
+        <Divisor text="CaroselloLungo: Title + description + img object"/>
+        <CaroselloLungo title="title" description="description" img={slider1image[0].img}/>
     </div>)}
 export default Home;
 
@@ -32,5 +36,15 @@ const slider1image =[{
     img:[
         require("../img/e-com1.webp"),
         require("../img/e-com2.webp"),
+        require("../img/e-com3.webp"),
+        require("../img/e-com1.webp"),
+        require("../img/e-com2.webp"),
+        require("../img/e-com3.webp"),
+        require("../img/e-com1.webp"),
+        require("../img/e-com2.webp"),
+        require("../img/e-com3.webp"),
+        require("../img/e-com1.webp"),
+        require("../img/e-com2.webp"),
         require("../img/e-com3.webp")
+
     ]}];
